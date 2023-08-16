@@ -1,4 +1,12 @@
- #include<bits/stdc++.h>
+
+
+
+// ye optimise code h jo kayi problems m use ho jaegi
+
+
+
+
+#include<bits/stdc++.h>
  
  #define int long long int
  #define F first
